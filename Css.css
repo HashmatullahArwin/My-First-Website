@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(images/Moutain\ with\ water.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+}
+.photo {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  margin: 1px auto;
+margin-top: 100px;
+  display: block;
+  opacity: 1;
+  transform: width 2s;
+  
+}
+
+.photo:hover {
+
+  opacity: calc(0.90);
+  height: 210px;
+  width: 210px;
+  border-radius: 150px;
+
+
+}
+
+.profile_name {
+
+background-color: wheat;
+opacity: 0.90;
+
+}
+
+.profile_name:hover {
+
+  opacity: 0.80;
+
+}
+
+
+  
+  
+
+
+
+
+
+
